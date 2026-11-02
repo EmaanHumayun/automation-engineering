@@ -7,7 +7,7 @@ A practical engineering repository containing automated system operations, Pytho
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | Component | Language | Purpose | Key Script |
 | :--- | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ A practical engineering repository containing automated system operations, Pytho
 
 ---
 
-## 🚀 Quickstart & Execution
+##  Quickstart & Execution
 
 ### 1. Run Health Reporter
 ```bash
